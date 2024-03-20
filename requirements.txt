@@ -1,0 +1,6 @@
+fastapi
+pydantic
+transformers
+scipy
+numpy
+os
